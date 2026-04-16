@@ -11,3 +11,4 @@ Repo about network optimization
 - https://www.ime.usp.br/~pf/grafos-exercicios/sites.html
 - https://www.ime.usp.br/~yw/2020/grafinhos/aulas/index.html
 - https://eduplay.rnp.br/app/video/112900/related?name=Grafos%20eulerianos%20e%20grafos%20hamiltonianos
+- https://www.youtube.com/@algoritmosemgrafos2708/featured
